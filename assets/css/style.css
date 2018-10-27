@@ -1,0 +1,32 @@
+html {
+    position: relative;
+}
+
+html, body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+    background: #ffffff url("../images/gravel.png");
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+
+header {
+    width: 100%;
+    background-color: #ffffff;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    background-color: #666666;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 12px;
+}
