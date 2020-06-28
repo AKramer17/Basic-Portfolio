@@ -90,7 +90,7 @@ header .headerContainer {
 	margin: 40px 0;
 	padding: 40px;
 	background-color: #ffffff;
-	border: 1px solid #dddddd;
+    border: 1px solid #dddddd;
 }
 
 .core h1 {
@@ -100,7 +100,7 @@ header .headerContainer {
 }
 
 .core p {
-    line-height: 1.5em;
+    line-height: 1.9em;
 }
 
 .portfolio {
