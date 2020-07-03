@@ -112,9 +112,19 @@ header .headerContainer {
     list-style-type: none;
 }
 
-.portfolio li{
+.portfolio li {
     position: relative;
     float: left;
+    padding: 10px;
+}
+
+#instructions {
+    font-size: 1.3em;
+    color: #01004d;
+    font-weight: bold;
+}
+
+.info {
     padding: 10px;
 }
 
