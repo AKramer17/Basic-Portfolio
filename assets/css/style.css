@@ -103,6 +103,10 @@ header .headerContainer {
     line-height: 1.9em;
 }
 
+.picture {
+    float: left;
+}
+
 .portfolio {
     list-style-type: none;
 }
