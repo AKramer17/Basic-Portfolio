@@ -141,6 +141,18 @@ header .headerContainer {
     width: 759px;
 }
 
+.education {
+    padding-left: 24px;
+}
+
+.experience {
+    padding-left: 24px;
+}
+
+.year {
+    float: right;
+}
+
 input[type="text"] {
     width: 150px;
 }
